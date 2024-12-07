@@ -8,7 +8,7 @@ import {
 } from "react-icons/fa";
 const Footer = () => {
   return (
-    <footer className="footer shadow-md">
+    <footer className="footer border-t-2 py-3">
       <div className="flex flex-col items-center justify-center gap-3 md:gap-5 py-5 container mx-auto px-5 xl:px-0">
         <div>
           <a href="#" className="text-2xl md:text-3xl font-semibold uppercase">
